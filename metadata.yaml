@@ -19,6 +19,8 @@ creator:
     gutenberg_agent_id: '33819'
     url: http://www.gutenberg.org/2009/agents/33819
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29289#Bloemlezing-uit-Guido-Gezelle-s-Gedichten
 gutenberg_issued: '2009-07-01'
 gutenberg_type: Text
 identifiers:
