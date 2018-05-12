@@ -1,0 +1,34 @@
+_repo: Bloemlezing-uit-Guido-Gezelle-s-Gedichten_29289
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 29289-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Gezelle, Guido
+    birthdate: 1830
+    deathdate: 1899
+    gutenberg_agent_id: '32734'
+    url: http://www.gutenberg.org/2009/agents/32734
+    wikipedia: http://nl.wikipedia.org/wiki/Guido_Gezelle
+  editor:
+    agent_name: Nijland, J. Aleida
+    alias: Nijland, Johanna Aleida
+    birthdate: 1870
+    deathdate: 1950
+    gutenberg_agent_id: '33819'
+    url: http://www.gutenberg.org/2009/agents/33819
+description: ''
+gutenberg_issued: '2009-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29289'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Poetry'
+- !lcc 'PT'
+title: Bloemlezing uit Guido Gezelle's Gedichten
+url: http://www.gutenberg.org/ebooks/29289
